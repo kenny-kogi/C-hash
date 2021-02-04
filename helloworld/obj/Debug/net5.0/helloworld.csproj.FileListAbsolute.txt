@@ -1,0 +1,16 @@
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\helloworld.exe
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\helloworld.deps.json
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.json
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\helloworld.dll
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\ref\helloworld.dll
+D:\C# hash\C-hash\helloworld\bin\Debug\net5.0\helloworld.pdb
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.csprojAssemblyReference.cache
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.dll
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\ref\helloworld.dll
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.pdb
+D:\C# hash\C-hash\helloworld\obj\Debug\net5.0\helloworld.genruntimeconfig.cache
