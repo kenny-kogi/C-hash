@@ -1,0 +1,16 @@
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.csprojAssemblyReference.cache
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.AssemblyInfoInputs.cache
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.AssemblyInfo.cs
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.csproj.CoreCompileInputs.cache
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\interestcalc.exe
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\interestcalc.deps.json
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\interestcalc.runtimeconfig.json
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\interestcalc.runtimeconfig.dev.json
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\interestcalc.dll
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\ref\interestcalc.dll
+D:\C# hash\C-hash\interestcalc\bin\Debug\net5.0\interestcalc.pdb
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.dll
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\ref\interestcalc.dll
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.pdb
+D:\C# hash\C-hash\interestcalc\obj\Debug\net5.0\interestcalc.genruntimeconfig.cache
