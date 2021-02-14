@@ -1,0 +1,16 @@
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\digitalcalc.exe
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\digitalcalc.deps.json
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\digitalcalc.runtimeconfig.json
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\digitalcalc.runtimeconfig.dev.json
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\digitalcalc.dll
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\ref\digitalcalc.dll
+D:\C# hash\C-hash\digitalcalc\bin\Debug\net5.0\digitalcalc.pdb
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.csprojAssemblyReference.cache
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.AssemblyInfoInputs.cache
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.AssemblyInfo.cs
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.csproj.CoreCompileInputs.cache
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.dll
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\ref\digitalcalc.dll
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.pdb
+D:\C# hash\C-hash\digitalcalc\obj\Debug\net5.0\digitalcalc.genruntimeconfig.cache
