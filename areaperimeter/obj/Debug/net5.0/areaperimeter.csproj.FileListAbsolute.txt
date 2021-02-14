@@ -1,0 +1,16 @@
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.csprojAssemblyReference.cache
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.AssemblyInfoInputs.cache
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.AssemblyInfo.cs
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.csproj.CoreCompileInputs.cache
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\areaperimeter.exe
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\areaperimeter.deps.json
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\areaperimeter.runtimeconfig.json
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\areaperimeter.runtimeconfig.dev.json
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\areaperimeter.dll
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\ref\areaperimeter.dll
+D:\C# hash\C-hash\areaperimeter\bin\Debug\net5.0\areaperimeter.pdb
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.dll
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\ref\areaperimeter.dll
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.pdb
+D:\C# hash\C-hash\areaperimeter\obj\Debug\net5.0\areaperimeter.genruntimeconfig.cache
